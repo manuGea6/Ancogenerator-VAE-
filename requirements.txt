@@ -1,0 +1,14 @@
+torch
+torchaudio
+librosa
+numpy
+matplotlib
+einops
+hydra-core
+huggingface_hub
+torchcrepe
+pysptk
+onnxruntime
+pystoi
+resemblyzer
+torchcodec
